@@ -15,8 +15,6 @@ Burger App is hosted on Heroku. Please check it out [here]().
 To run the application follow the instructions below:
 
 	git clone git@github.com:ekhin/Burger.git
-	cd burger-master
-	npm install
-    node server.js
+	cd burger
 	
 Once the application is running locally on `PORT`, go to your browser at the URL `localhost:8080`.
