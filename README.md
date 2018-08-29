@@ -6,6 +6,10 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 The application is implemented using MySQL, Node, Express, Handlebars, ORM, [Node.js](https://nodejs.org/en/), [body-parser](https://www.npmjs.com/package/body-parser), [path](https://www.npmjs.com/package/path), [Express](https://expressjs.com/) server on the back end, and the [Bootstrap](https://getbootstrap.com/) CSS framework on the front end.
 
+## Demo
+	
+ Eat-Da-Burger! App is hosted on Heroku. Please check it out [here](https://fathomless-everglades-43426.herokuapp.com/index).
+
 ## Getting Started
 
 To run the application follow the instructions below:
